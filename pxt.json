@@ -1,5 +1,5 @@
 {
-    "name": "rmb-hum-var_batch",
+    "name": "rmb-hum-var_batch-memories",
     "description": "",
     "dependencies": {
         "core": "*",
